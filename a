@@ -1,0 +1,33 @@
+#include<stdio.h>
+
+Lat pn[10],arr[10], arri[10],bur[10],buri[10],start[18], fintsh[10], tat[10],wt[10]; vold hv(int a, int b) //Ham hoan vi
+
+int tnp-pn[0]; pn[a]-pn[b];
+
+pn[b]=tmp;
+
+tnp-arr[0]:
+
+arr[a]=arr[b]; arr[b]=tmp;
+
+tmp-arri[a];
+
+arri[a]=arri[b];
+
+arra[b]=tmp; tmp-bur[a];
+
+bur[a]-bur[b]:
+
+bur[b]wtmp:
+
+buri[a]-buri[b];
+
+buri[b]-trp: tmp-start[a];
+
+start[a]-start[b];
+
+start[b]-tmp: tapeftatsh[a]
+
+rintsh[a]-finish[b]; finish[b]-tmp:
+
+Votd sort(tnt b) //Han Sắp xếp trong Down is;b)
